@@ -2,20 +2,35 @@
 
 <div id="top"></div>
 
-<div align="center">
+<h1 align="center">🐄 FARMLENS: THE COMPLETE BLUEPRINT</h1>
 
-# 🐄 FARMLENS: THE COMPLETE BLUEPRINT
-*The Ultimate AI-Powered Ecosystem for Cattle Health & Farm Management*
+<p align="center">
+The Ultimate AI-Powered Ecosystem for Cattle Health & Farm Management
+</p>
 
-![last-commit](https://img.shields.io/github/last-commit/Surya821/FarmLens?style=flat&logo=git&logoColor=white&color=228B22)
-![repo-top-language](https://img.shields.io/github/languages/top/Surya821/FarmLens?style=flat&color=228B22)
-![repo-language-count](https://img.shields.io/github/languages/count/Surya821/FarmLens?style=flat&color=228B22)
-![Vercel](https://img.shields.io/badge/Vercel-000000.svg?style=flat&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7.svg?style=flat&logo=render&logoColor=white)
+<p align="center">
+
+<img src="https://img.shields.io/github/last-commit/Surya821/FarmLens?style=for-the-badge&logo=git&logoColor=white&color=228B22">
+
+<img src="https://img.shields.io/github/languages/top/Surya821/FarmLens?style=for-the-badge&color=228B22">
+
+<img src="https://img.shields.io/github/languages/count/Surya821/FarmLens?style=for-the-badge&color=228B22">
+
+<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=vercel&logoColor=white">
+
+<img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=render&logoColor=white">
+
+</p>
 
 **An enterprise-grade, microservice-based solution for modern livestock farming, combining deep learning CV models, advanced symptom analysis, and a multilingual LLM assistant.**
 
-[🌐 Live Demo](https://farmlens.vercel.app) • [📄 API Documentation](https://farmlens.vercel.app/docs?tab=api) • [🚀 Developer Hub](https://farmlens.vercel.app/developer)
+<p align="center">
+
+<a href="https://farmlens.vercel.app">🌐 Live Demo</a> •
+<a href="https://farmlens.vercel.app/docs?tab=api">📄 API Documentation</a> •
+<a href="https://farmlens.vercel.app/developer">🚀 Developer Hub</a>
+
+</p>
 
 </div>
 
@@ -252,10 +267,10 @@ npm run dev
 
 ## 📬 Contact
 
-**Lead Architect: Surya Pratap Singh**  
+**Lead Architect: Garv Kumar Sharma**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/surya-pratap-singh1/)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:surya30082005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/garvkumarsharma)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garvdhiman2004@gmail.com)
 
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
