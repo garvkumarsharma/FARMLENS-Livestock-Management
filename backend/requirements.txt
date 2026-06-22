@@ -1,0 +1,20 @@
+fastapi
+uvicorn[standard]
+gunicorn
+python-dotenv
+
+# Deep Learning Frameworks
+torch
+torchvision
+tensorflow
+
+pillow
+python-multipart
+
+# Machine Learning
+pandas
+numpy
+scikit-learn
+joblib
+timm
+gdown
