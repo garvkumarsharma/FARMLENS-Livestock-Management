@@ -260,5 +260,3 @@ npm run dev
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
 <p align="right">(<a href="#top">⬆️ Back to Top</a>)</p>
-#   F A R M L E N S - L i v e s t o c k - M a n a g e m e n t  
- 
